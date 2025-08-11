@@ -1,0 +1,28 @@
+# Node modules (todas las dependencias instaladas)
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directorios temporales
+dist/
+build/
+tmp/
+temp/
+
+# Sistema operativo
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
+# Archivos de entorno
+.env
+.env.local
+
+# Archivos de test coverage
+coverage/
+
+# Editor settings (opcional)
+.vscode/
+.idea/
